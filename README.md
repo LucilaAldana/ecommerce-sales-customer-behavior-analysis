@@ -48,4 +48,4 @@ Data Limitations:
 
 • This project simulates a real-world business scenario where historical data is used to understand performance drivers and improve profitability through data-driven insights.
 
-Tools Used: Python / Data Cleaning / EDA / KPI Analysis / Generative AI
+Tools Used: Python / Generative AI / Data Cleaning / EDA / KPI Analysis
